@@ -1,0 +1,14 @@
+C:\Users\Suraj\OneDrive\Desktop\internship\Day 22\ShoppingCartApp\ShoppingCartApp\bin\Debug\net8.0\ShoppingCartApp.exe
+C:\Users\Suraj\OneDrive\Desktop\internship\Day 22\ShoppingCartApp\ShoppingCartApp\bin\Debug\net8.0\ShoppingCartApp.deps.json
+C:\Users\Suraj\OneDrive\Desktop\internship\Day 22\ShoppingCartApp\ShoppingCartApp\bin\Debug\net8.0\ShoppingCartApp.runtimeconfig.json
+C:\Users\Suraj\OneDrive\Desktop\internship\Day 22\ShoppingCartApp\ShoppingCartApp\bin\Debug\net8.0\ShoppingCartApp.dll
+C:\Users\Suraj\OneDrive\Desktop\internship\Day 22\ShoppingCartApp\ShoppingCartApp\bin\Debug\net8.0\ShoppingCartApp.pdb
+C:\Users\Suraj\OneDrive\Desktop\internship\Day 22\ShoppingCartApp\ShoppingCartApp\obj\Debug\net8.0\ShoppingCartApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Suraj\OneDrive\Desktop\internship\Day 22\ShoppingCartApp\ShoppingCartApp\obj\Debug\net8.0\ShoppingCartApp.AssemblyInfoInputs.cache
+C:\Users\Suraj\OneDrive\Desktop\internship\Day 22\ShoppingCartApp\ShoppingCartApp\obj\Debug\net8.0\ShoppingCartApp.AssemblyInfo.cs
+C:\Users\Suraj\OneDrive\Desktop\internship\Day 22\ShoppingCartApp\ShoppingCartApp\obj\Debug\net8.0\ShoppingCartApp.csproj.CoreCompileInputs.cache
+C:\Users\Suraj\OneDrive\Desktop\internship\Day 22\ShoppingCartApp\ShoppingCartApp\obj\Debug\net8.0\ShoppingCartApp.dll
+C:\Users\Suraj\OneDrive\Desktop\internship\Day 22\ShoppingCartApp\ShoppingCartApp\obj\Debug\net8.0\refint\ShoppingCartApp.dll
+C:\Users\Suraj\OneDrive\Desktop\internship\Day 22\ShoppingCartApp\ShoppingCartApp\obj\Debug\net8.0\ShoppingCartApp.pdb
+C:\Users\Suraj\OneDrive\Desktop\internship\Day 22\ShoppingCartApp\ShoppingCartApp\obj\Debug\net8.0\ShoppingCartApp.genruntimeconfig.cache
+C:\Users\Suraj\OneDrive\Desktop\internship\Day 22\ShoppingCartApp\ShoppingCartApp\obj\Debug\net8.0\ref\ShoppingCartApp.dll
