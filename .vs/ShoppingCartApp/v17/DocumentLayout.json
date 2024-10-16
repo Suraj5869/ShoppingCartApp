@@ -7,20 +7,20 @@
       "RelativeMoniker": "D:0:0:{8FD7A7B5-0912-432F-A705-1211A24D816E}|ShoppingCartApp\\ShoppingCartApp.csproj|solutionrelative:shoppingcartapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8FD7A7B5-0912-432F-A705-1211A24D816E}|ShoppingCartApp\\ShoppingCartApp.csproj|c:\\users\\suraj\\onedrive\\desktop\\internship\\day 22\\shoppingcartapp\\shoppingcartapp\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8FD7A7B5-0912-432F-A705-1211A24D816E}|ShoppingCartApp\\ShoppingCartApp.csproj|solutionrelative:shoppingcartapp\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8FD7A7B5-0912-432F-A705-1211A24D816E}|ShoppingCartApp\\ShoppingCartApp.csproj|c:\\users\\suraj\\onedrive\\desktop\\internship\\day 22\\shoppingcartapp\\shoppingcartapp\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8FD7A7B5-0912-432F-A705-1211A24D816E}|ShoppingCartApp\\ShoppingCartApp.csproj|solutionrelative:shoppingcartapp\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8FD7A7B5-0912-432F-A705-1211A24D816E}|ShoppingCartApp\\ShoppingCartApp.csproj|c:\\users\\suraj\\onedrive\\desktop\\internship\\day 22\\shoppingcartapp\\shoppingcartapp\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8FD7A7B5-0912-432F-A705-1211A24D816E}|ShoppingCartApp\\ShoppingCartApp.csproj|solutionrelative:shoppingcartapp\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8FD7A7B5-0912-432F-A705-1211A24D816E}|ShoppingCartApp\\ShoppingCartApp.csproj|c:\\users\\suraj\\onedrive\\desktop\\internship\\day 22\\shoppingcartapp\\shoppingcartapp\\models\\lineitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8FD7A7B5-0912-432F-A705-1211A24D816E}|ShoppingCartApp\\ShoppingCartApp.csproj|solutionrelative:shoppingcartapp\\models\\lineitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FD7A7B5-0912-432F-A705-1211A24D816E}|ShoppingCartApp\\ShoppingCartApp.csproj|c:\\users\\suraj\\onedrive\\desktop\\internship\\day 22\\shoppingcartapp\\shoppingcartapp\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FD7A7B5-0912-432F-A705-1211A24D816E}|ShoppingCartApp\\ShoppingCartApp.csproj|solutionrelative:shoppingcartapp\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FD7A7B5-0912-432F-A705-1211A24D816E}|ShoppingCartApp\\ShoppingCartApp.csproj|c:\\users\\suraj\\onedrive\\desktop\\internship\\day 22\\shoppingcartapp\\shoppingcartapp\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FD7A7B5-0912-432F-A705-1211A24D816E}|ShoppingCartApp\\ShoppingCartApp.csproj|solutionrelative:shoppingcartapp\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,39 +34,43 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Order.cs",
               "DocumentMoniker": "C:\\Users\\Suraj\\OneDrive\\Desktop\\internship\\Day 22\\ShoppingCartApp\\ShoppingCartApp\\Models\\Order.cs",
               "RelativeDocumentMoniker": "ShoppingCartApp\\Models\\Order.cs",
               "ToolTip": "C:\\Users\\Suraj\\OneDrive\\Desktop\\internship\\Day 22\\ShoppingCartApp\\ShoppingCartApp\\Models\\Order.cs",
               "RelativeToolTip": "ShoppingCartApp\\Models\\Order.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAkwBMAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T11:18:26.629Z"
+              "WhenOpened": "2024-10-09T11:18:26.629Z",
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "LineItem.cs",
               "DocumentMoniker": "C:\\Users\\Suraj\\OneDrive\\Desktop\\internship\\Day 22\\ShoppingCartApp\\ShoppingCartApp\\Models\\LineItem.cs",
               "RelativeDocumentMoniker": "ShoppingCartApp\\Models\\LineItem.cs",
               "ToolTip": "C:\\Users\\Suraj\\OneDrive\\Desktop\\internship\\Day 22\\ShoppingCartApp\\ShoppingCartApp\\Models\\LineItem.cs",
               "RelativeToolTip": "ShoppingCartApp\\Models\\LineItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAgwBMAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T11:18:12.326Z"
+              "WhenOpened": "2024-10-09T11:18:12.326Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Customer.cs",
               "DocumentMoniker": "C:\\Users\\Suraj\\OneDrive\\Desktop\\internship\\Day 22\\ShoppingCartApp\\ShoppingCartApp\\Models\\Customer.cs",
               "RelativeDocumentMoniker": "ShoppingCartApp\\Models\\Customer.cs",
               "ToolTip": "C:\\Users\\Suraj\\OneDrive\\Desktop\\internship\\Day 22\\ShoppingCartApp\\ShoppingCartApp\\Models\\Customer.cs",
               "RelativeToolTip": "ShoppingCartApp\\Models\\Customer.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwA0AAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAkwA0AAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T11:17:39.142Z"
+              "WhenOpened": "2024-10-09T11:17:39.142Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -76,14 +80,14 @@
               "RelativeDocumentMoniker": "ShoppingCartApp\\Program.cs",
               "ToolTip": "C:\\Users\\Suraj\\OneDrive\\Desktop\\internship\\Day 22\\ShoppingCartApp\\ShoppingCartApp\\Program.cs",
               "RelativeToolTip": "ShoppingCartApp\\Program.cs",
-              "ViewState": "AgIAADsAAAAAAAAAAAAmwB4AAABfAAAAAAAAAA==",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAYwDQAAABWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-09T11:13:11.72Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\Suraj\\OneDrive\\Desktop\\internship\\Day 22\\ShoppingCartApp\\ShoppingCartApp\\Models\\Product.cs",
               "RelativeDocumentMoniker": "ShoppingCartApp\\Models\\Product.cs",

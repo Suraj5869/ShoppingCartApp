@@ -37,8 +37,8 @@ namespace ShoppingCartApp
 
         public static void DisplayCustomerMenu(int id)
         {
-            var customer = customers.Where(c => c.Id == id).FirstOrDefault();
-            if (customer != null)
+            var customer = customers.Where(c => c.Id == id).FirstOrDefault();//FInd the customer based on id
+            if (customer != null)//Checks if customer is not null then it show the customer details
             {
                 Console.WriteLine($"Customer Id: {customer.Id}\n" +
                     $"Customer Name: {customer.Name}\n" +
@@ -50,7 +50,7 @@ namespace ShoppingCartApp
             Console.WriteLine($"Customer with Id {id} does not exist");
         }
 
-        public static void DisplayOrders(List<Order> orders)
+        public static void DisplayOrders(List<Order> orders)//show all labels of order
         {
             foreach (var order in orders)
             {
@@ -64,7 +64,7 @@ namespace ShoppingCartApp
         public static void GetLineItems(Order order)
         {
             double totalCost = 0.0;
-            foreach (var item in order.GetLineItems())
+            foreach (var item in order.GetLineItems())//Show all the details of customer orders
             {
                 Console.WriteLine($"{item.Id}\t\t{item.Products.Name}\t\t{item.Quantity}\t\t{item.Products.Price}\t\t{item.Products.DiscountPercentage}\t\t{item.Products.CalculateDiscountedPrice()}\t\t\t" +
                     $"{item.CalculateLineItemCost()}\n");
